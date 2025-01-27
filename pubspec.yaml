@@ -1,6 +1,6 @@
 name: deep_inside
 description: A highly secure local storage solution for Flutter applications.
-version: 1.0.0
+version: 0.0.1
 homepage: https://github.com/username/deep_inside
 environment:
   sdk: ">=3.0.0 <4.0.0"

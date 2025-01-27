@@ -1,3 +1,7 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+- Initial release.
+- Features:
+    - Encrypted local storage.
+    - Save and retrieve tokens, locale, and user data.
+
